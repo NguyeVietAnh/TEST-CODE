@@ -95,6 +95,6 @@ void PWM_Configuration(void)
 		// Cho phep TIM4 hoat dong
 		TIM_Cmd(TIM4, ENABLE);
 	}
-//DIY1
+//test lan 5
 
 /******************* (C) COPYRIGHT 2011 STMicroelectronics *****END OF FILE****/
